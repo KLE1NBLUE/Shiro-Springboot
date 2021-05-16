@@ -34,7 +34,7 @@ Shiro 就是用来解决安全管理的系统化框架。
 
 Shiro 的运行机制如下图所示。
 
-![](D:\Reposity\Shiro\image\业务流程.jpg)
+![](https://img-blog.csdnimg.cn/20210516154624538.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTYyNjQ2MQ==,size_16,color_FFFFFF,t_70#pic_center)
 
 # Spring Boot 整合 Shiro
 
